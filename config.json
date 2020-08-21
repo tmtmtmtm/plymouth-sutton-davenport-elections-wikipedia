@@ -1,0 +1,10 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/Plymouth_Sutton_and_Devonport_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q1050608",
+    "start": "2010",
+    "end": "9999"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate"
+}
