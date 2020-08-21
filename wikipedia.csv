@@ -1,0 +1,25 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q30164902,Luke Pollard,Q6467393,Labour Co-operative,25461,Q30173038,General election 2019,1
+,Rebecca Smith,Q9626,Conservative Party (UK),20704,Q30173038,General election 2019,2
+Q298846,Ann Widdecombe,Q61651140,Brexit Party,2909,Q30173038,General election 2019,3
+,Graham Reed,Q9624,Liberal Democrats (UK),2545,Q30173038,General election 2019,4
+,James Ellwood,Q9669,Green Party of England and Wales,1557,Q30173038,General election 2019,5
+Q30164902,Luke Pollard,Q6467393,Labour Co-operative,27283,Q25052149,General election 2017,1
+Q290733,Oliver Colvile,Q9626,Conservative Party (UK),20476,Q25052149,General election 2017,2
+,Richard Ellison,Q10647,UK Independence Party,1364,Q25052149,General election 2017,3
+,Henrietta Bewley,Q9624,Liberal Democrats (UK),1244,Q25052149,General election 2017,4
+,Dan Sheaff,Q9669,Green Party of England and Wales,604,Q25052149,General election 2017,5
+,Danny Bamping,Q327591,Independent (politician),237,Q25052149,General election 2017,6
+Q290733,Oliver Colvile,Q9626,Conservative Party (UK),18120,Q3586935,General election 2015,1
+Q30164902,Luke Pollard,Q9630,Labour Party (UK),17597,Q3586935,General election 2015,2
+,Roy Kettle,Q10647,United Kingdom Independence Party,6731,Q3586935,General election 2015,3
+,Libby Brown,Q9669,Green Party of England and Wales,3401,Q3586935,General election 2015,4
+,Graham Reed,Q9624,Liberal Democrats (UK),2008,Q3586935,General election 2015,5
+,Laura-Jane Rossington,Q1120576,Communist Party of Britain,106,Q3586935,General election 2015,6
+Q290733,Oliver Colvile,Q9626,Conservative Party (UK),15050,Q215622,General election 2010,1
+Q6551595,Linda Gilroy,Q9630,Labour Party (UK),13901,Q215622,General election 2010,2
+,Judy Evans,Q9624,Liberal Democrats (UK),10829,Q215622,General election 2010,3
+,Andrew Leigh,Q10647,United Kingdom Independence Party,2854,Q215622,General election 2010,4
+,Tony Brown,Q9669,Green Party of England and Wales,904,Q215622,General election 2010,5
+,Brian Gerrish,Q327591,Independent (politician),223,Q215622,General election 2010,6
+,Robert Hawkins,Q3491460,Socialist Labour Party (UK),123,Q215622,General election 2010,7
